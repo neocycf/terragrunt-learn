@@ -1,0 +1,5 @@
+# Terraform local .terraform directories
+**/.terraform/
+
+# Terragrunt cache directories
+**/.terragrunt-cache/
